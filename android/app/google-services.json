@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731508867345",
+    "firebase_url": "https://growth-app-50738-default-rtdb.firebaseio.com",
+    "project_id": "growth-app-50738",
+    "storage_bucket": "growth-app-50738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731508867345:android:d2e6258d5660d371c00cb0",
+        "android_client_info": {
+          "package_name": "com.growthapp.dayerdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731508867345-apohtl4kpchoc3l49vimf138g3m1502p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.growthapp.dayerdl",
+            "certificate_hash": "9a200a4593ab5e0a45edfe74351a24ff3bab7304"
+          }
+        },
+        {
+          "client_id": "731508867345-a6o6k9t72djnqac38c1u0b6r8g9p9j65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAme2lIH6KlpJez87OhK15vuUu_1aZxDEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731508867345-a6o6k9t72djnqac38c1u0b6r8g9p9j65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731508867345-e4slkrtpcr5t7cr9a4emblfcnb14lfdf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dayerdl.growthapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

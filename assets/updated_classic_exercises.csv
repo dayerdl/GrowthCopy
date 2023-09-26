@@ -1,0 +1,538 @@
+ID,Name,Exercise type,BodyPart,Equipment,Gender,Target,Synergist,file names
+1,3/4 Sit-up,Strength,Waist,Body weight,Male,Rectus Abdominis,Obliques,00011301-3-4-Sit-up_Waist_180.webp
+3,Air bike,Strength,Waist,Body weight,Male,Obliques,"Gluteus Maximus, Quadriceps, Rectus Abdominis",00031301-air-bike-m_waist_FIX_180.webp
+24,Barbell Bench Front Squat,Strength,Thighs,Barbell,Male,Quadriceps,"Adductor Magnus, Soleus",00241301-Barbell-Bench-Front-Squat_thighs_180.webp
+25,Barbell Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",00251301-Barbell-Bench-Press_Chest-FIX2_180.webp
+26,Barbell Bench Squat,Strength,Hips,Barbell,Male,Quadriceps,"Adductor Magnus, Soleus",00261301-Barbell-Bench-Squat_Hips-FIX_180.webp
+27,Barbell Bent Over Row,Strength,Back,Barbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Middle Fibers, Trapezius Upper Fibers ","Brachialis, Brachioradialis, Deltoid Posterior",00271301-Barbell-Bent-Over-Row_Back-FIX_180.webp
+30,Barbell Close-Grip Bench Press,Strength,Upper Arms,Barbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",00301301-Barbell-Close-Grip-Bench-Press_Upper-Arms-FIX_180.webp
+31,Barbell Curl,Strength,Upper Arms,Barbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",00311301-Barbell-Curl_Upper-Arms-FIX_180.webp
+32,Barbell Deadlift,Strength,Hips,Barbell,Male,Gluteus Maximus,"Adductor Magnus, Erector Spinae, Hamstrings, Quadriceps, Soleus",00321301-Barbell-Deadlift_Hips-FIX2_180.webp
+33,Barbell Decline Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",00331301-Barbell-Decline-Bench-Press_Chest-FIX_180.webp
+34,Barbell Decline Bent Arm Pullover,Strength,Back,Barbell,Male,Latissimus Dorsi,"Levator Scapulae, Pectoralis Major Sternal Head, Triceps Brachii",00341301-Barbell-Decline-Bent-Arm-Pullover_Back_180.webp
+35,Barbell Decline Close Grip To Skull Press,Strength,Upper Arms,Barbell,Male,Triceps Brachii,,00351301-Barbell-Decline-Close-Grip-To-Skull-Press_Upper-Arms_180.webp
+36,Barbell Decline Wide-grip Press,Strength,Chest,Barbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",00361301-Barbell-Decline-Wide-grip-Press_Chest_180.webp
+37,Barbell Decline wide-grip pullover,Strength,Back,Barbell,Male,Latissimus Dorsi,"Deltoid Posterior, Levator Scapulae, Pectoralis Major Sternal Head, Teres Major, Triceps Brachii",00371301-Barbell-Decline-wide-grip-pullover_Back_180.webp
+38,Barbell Drag Curl,Strength,Upper Arms,Barbell,Male,Biceps Brachii,"Brachialis, Brachioradialis, Deltoid Anterior, Deltoid Posterior",00381301-Barbell-Drag-Curl_Upper-Arms_180.webp
+39,Barbell Front Chest Squat,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",00391301-Barbell-Front-Chest-Squat_Thighs_180.webp
+40,Barbell Front Raise and Pullover,Strength,Chest,Barbell,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Deltoid Lateral, Latissimus Dorsi, Serratus Anterior, Teres Major, Triceps Brachii",00401301-Barbell-Front-Raise-and-Pullover_Chest_180.webp
+41,Barbell Front Raise,Strength,Shoulders,Barbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",00411301-Barbell-Front-Raise_Shoulders_180.webp
+42,Barbell Front Squat,Strength,Hips,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",00421301-Barbell-Front-Squat_Hips-FIX_180.webp
+43,Barbell Full Squat,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",00431301-Barbell-Full-Squat_Thighs_180.webp
+44,Barbell Good Morning,Strength,Thighs,Barbell,Male,Hamstrings,"Adductor Magnus, Gluteus Maximus",00441301-Barbell-Good-Morning_Thighs-FIX_180.webp
+47,Barbell Incline Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",00471301-Barbell-Incline-Bench-Press_Chest-FIX_180.webp
+48,Barbell Incline Reverse-grip Press,Strength,Upper Arms,Barbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head",00481301-Barbell-Incline-Reverse-grip-Press_Triceps_180.webp
+49,Barbell Incline Row,Strength,Back,Barbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Minor , Tibialis Anterior, Trapezius Middle Fibers, Trapezius Upper Fibers ","Brachialis, Brachioradialis, Pectoralis Major Sternal Head",00491301-Barbell-Incline-Row_Back-FIX_180.webp
+54,Barbell Lunge,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",00541301-Barbell-Lunge_Thighs_180.webp
+55,Barbell Lying Close-grip Press,Strength,Upper Arms,Barbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Sternal Head",00551301-Barbell-Lying-Close-grip-Press_Triceps_180.webp
+56,Barbell Lying Close-grip Triceps Extension,Strength,Upper Arms,Barbell,Male,Triceps Brachii,,00561301-Barbell-Lying-Close-grip-Triceps-Extension_Upper-Arms_180.webp
+57,Barbell Lying extension,Strength,Upper Arms,Barbell,Male,Triceps Brachii,,00571301-Barbell-Lying-extension_Upper-arms_180.webp
+58,Barbell Lying Lifting (on hip),Strength,Hips,Barbell,Male,Gluteus Maximus,"Gastrocnemius, Sartorius, Soleus",00581301-Barbell-Lying-Lifting-(on-hip)_Hips_180.webp
+68,Barbell One Leg Squat,Strength,Thighs,Barbell,Male,Quadriceps,"Adductor Magnus, Gluteus Maximus, Soleus",00681301-Barbell-One-Leg-Squat_thighs_180.webp
+70,Barbell Preacher Curl,Strength,Upper Arms,Barbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",00701301-Barbell-Preacher-Curl_Upper-Arms-AFIX_180.webp
+76,Barbell Rear Delt Row,Strength,Shoulders,Barbell,Male,Deltoid Posterior ,"Brachialis, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",00761301-Barbell-Rear-Delt-Row_shoulder-FIX_180.webp
+78,Barbell Rear Lunge,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",00781301-Barbell-Rear-Lunge_Thighs_180.webp
+79,Barbell Revers Wrist Curl (version 2),Strength,Forearms,Barbell,Male,Wrist Extensors,,00791301-Barbell-Wrist-Reverse-Curl-(VERSION-2)_Forearms-FIX_180.webp
+80,Barbell Reverse Curl,Strength,Forearms,Barbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",00801301-Barbell-Reverse-Curl_Forearms-FIX_180.webp
+81,Barbell Reverse Preacher Curl,Strength,Forearms,Barbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",00811301-Barbell-Reverse-Preacher-Curl_Forearms-FIX_180.webp
+82,Barbell Reverse Wrist Curl,Strength,Forearms,Barbell,Male,Wrist Extensors,,00821301-Barbell-Reverse-Wrist-Curl_Forearm_180.webp
+85,Barbell Romanian Deadlift,Strength,Hips,Barbell,Male,"Erector Spinae, Gluteus Maximus","Adductor Magnus, Hamstrings, Quadriceps, Soleus",00851301-Barbell-Romanian-Deadlift_Hips-FIX_180.webp
+86,Barbell Seated Behind Head Military Press,Strength,Shoulders,Barbell,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",00861301-Barbell-Seated-Behind-Head-Military-Press_Shoulders_180.webp
+88,Barbell Seated Calf Raise,Strength,Calves,Barbell,Male,Gastrocnemius,Soleus,00881301-Barbell-Seated-Calf-Raise_Calves_180.webp
+89,Barbell Seated Close-grip Concentration Curl,Strength,Upper Arms,Barbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",00891301-Barbell-Seated-Close-grip-Concentration-Curl_Upper-Arms_180.webp
+90,Barbell Seated Good morning,Strength,Hips,Barbell,Male,Gluteus Maximus,Hamstrings,00901301-Barbell-Seated-Good-Morning_Hips-FIX_180.webp
+92,Barbell Seated Overhead Triceps Extension,Strength,Upper Arms,Barbell,Male,Triceps Brachii,,00921301-Barbell-Seated-Overhead-Triceps-Extension_Upper-Arms_180.webp
+94,Barbell Seated Twist,Strength,Waist,Barbell,Male,Obliques,Iliopsoas,00941301-Barbell-Seated-Twist_waist_180.webp
+95,Barbell Shrug,Strength,Back,Barbell,Male,Trapezius Upper Fibers ,"Levator Scapulae, Trapezius Middle Fibers",00951301-Barbell-Shrug_Back_180.webp
+96,Barbell Side Bent (version 2),Strength,Waist,Barbell,Male,Obliques,Iliopsoas,00961301-Barbell-Side-Bent-II_waist_180.webp
+97,Barbell Side Split Squat (version 2),Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",00971301-Barbell-Side-Split-Squat-II_Thighs_180.webp
+108,Barbell Standing Leg Calf Raise,Strength,Calves,Barbell,Male,Gastrocnemius,Soleus,01081301-Barbell-Standing-Leg-Calf-Raise_Calf_180.webp
+109,Barbell Standing Overhead Triceps Extension,Strength,Upper Arms,Barbell,Male,Triceps Brachii,,01091301-Barbell-Standing-Overhead-Triceps-Extension_Upper-Arms_180.webp
+110,Barbell Standing Reverse Grip Curl,Strength,Forearms,Barbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",01101301-Barbell-Standing-Reverse-Grip-Curl_Forearms_180.webp
+112,Barbell Standing Twist,Strength,Waist,Barbell,Male,Obliques,Iliopsoas,01121301-Barbell-Standing-Twist_Waist-FIX_180.webp
+113,Barbell Standing Wide-grip Curl,Strength,Upper Arms,Barbell,Male,"Biceps Brachii, Brachialis",Brachioradialis,01131301-Barbell-Standing-Wide-grip-Curl_Upper-Arms_180.webp
+114,Barbell Step-up,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",01141301-Barbell-Step-up_Hips_180.webp
+115,Barbell Stiff Leg Good Morning,Strength,Thighs,Barbell,Male,"Erector Spinae, Gluteus Maximus, Hamstrings",Adductor Magnus,01151301-Barbell-Stiff-Leg-Good-Morning_Waist_180.webp
+116,Barbell Straight Leg Deadlift,Strength,Thighs,Barbell,Male,"Erector Spinae, Hamstrings","Adductor Magnus, Gluteus Maximus",01161301-Barbell-Straight-Leg-Deadlift_Thighs-AFIX_180.webp
+117,Barbell Sumo Deadlift,Strength,Hips,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus, Tensor Fasciae Latae",01171301-Barbell-Sumo-Deadlift_Hips-FIX_180.webp
+118,Barbell Reverse Grip Bent over Row,Strength,Back,Barbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Biceps Brachii, Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",01181301-Barbell-Reverse-Grip-Bent-over-Row_Back-FIX_180.webp
+120,Barbell Upright Row,Strength,Shoulders,Barbell,Male,Deltoid Lateral,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Anterior, Infraspinatus, Serratus Anterior, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01201301-Barbell-Upright-Row_shoulder_180.webp
+121,Barbell Upright Row (version 3),Strength,Shoulders,Barbell,Male,Deltoid Lateral,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Anterior, Infraspinatus, Serratus Anterior, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01211301-Barbell-Upright-Row_Shoulders-FIX_180.webp
+125,Barbell Wrist Curl (version 2),Strength,Forearms,Barbell,Male,Wrist Flexors,,01251301-Barbell-Wrist-Curl-(VERSION-2)_Forearms-FIX2_180.webp
+126,Barbell Wrist Curl,Strength,Forearms,Barbell,Male,Wrist Flexors,,01261301-Barbell-Wrist-Curl_Forearm_180.webp
+129,Bench Dip (knees bent),Strength,Upper Arms,Body weight,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Sternal Head",01291301-Bench-Dip-(knees-bent)_Upper-Arms_180.webp
+149,Cable Alternate Triceps Extension,Strength,Upper Arms,Cable,Male,Triceps Brachii,,01491301-Cable-Alternate-Triceps-Extension_Upper-Arms_180.webp
+150,Cable Bar Lateral Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01501301-Cable-Bar-Lateral-Pulldown_Back_180.webp
+151,Cable Bench Press,Strength,Chest,Cable,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",01511301-Cable-Bench-Press_Chest-FIX_180.webp
+152,Cable Concentration Extension (on knee),Strength,Upper Arms,Cable,Male,Triceps Brachii,,01521301-Cable-Concentration-Extension-(on-knee)_Upper-Arms_180.webp
+153,Cable Cross-over Lateral Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01531301-Cable-Cross-over-Lateral-Pulldown_Back_180.webp
+154,Cable Cross-over Revers Fly,Strength,Shoulders,Cable,Male,Deltoid Posterior ,"Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01541301-Cable-Cross-over-Revers-Fly_Shoulders_180.webp
+155,Cable Cross-over Variation,Strength,Chest,Cable,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",Deltoid Anterior,01551301-Cable-Crossover-Variation_Chest_180.webp
+158,Cable Decline Fly,Strength,Chest,Cable,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Deltoid Anterior, Pectoralis Major Clavicular Head",01581301-Cable-Decline-Fly_Chest-FIX_180.webp
+162,Cable Front Raise,Strength,Shoulders,Cable,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",01621301-Cable-Front-Raise_Shoulders_180.webp
+164,Cable Front Shoulder Raise,Strength,Shoulders,Cable,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",01641301-Cable-Front-Shoulder-Raise_Shoulders_180.webp
+165,Cable Hammer Curl (with rope),Strength,Forearms,Cable,Male,Brachioradialis,"Biceps Brachii, Brachialis",01651301-Cable-Hammer-Curl-(with-rope-attachment)-(male)_Forearms-FIX_180.webp
+168,Cable Hip Adduction,Strength,Thighs,Cable,Male,Adductor Longus,"Adductor Brevis, Adductor Magnus, Gracilis",01681301-Cable-Hip-Adduction_Thighs_180.webp
+169,Cable Incline Bench Press,Strength,Chest,Cable,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",01691301-Cable-Incline-Bench-Press_Chest-FIX_180.webp
+171,Cable Incline Fly,Strength,Chest,Cable,Male,Pectoralis Major Clavicular Head,"Biceps Brachii, Deltoid Anterior",01711301-Cable-Incline-Fly_Chest_180.webp
+172,Cable Incline Pushdown,Strength,Back,Cable,Male,Latissimus Dorsi,"Deltoid Posterior, Pectoralis Major Sternal Head, Teres Major",01721301-Cable-Incline-Pushdown_Back_180.webp
+173,Cable Incline Triceps Extension,Strength,Upper Arms,Cable,Male,Triceps Brachii,,01731301-Cable-Incline-Triceps-Extension_Upper-Arms_180.webp
+175,Cable Kneeling Crunch,Strength,Waist,Cable,Male,Rectus Abdominis,Obliques,01751301-Cable-Kneeling-Crunch_Waist-FIX_180.webp
+176,Cable Kneeling Triceps Extension,Strength,Upper Arms,Cable,Male,Triceps Brachii,,01761301-Cable-Kneeling-Triceps-Extension_Upper-Arms_180.webp
+178,Cable Lateral Raise,Strength,Shoulders,Cable,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior",01781301-Cable-Lateral-Raise_shoulder_180.webp
+179,Cable Low Fly,Strength,Chest,Cable,Male,Pectoralis Major Clavicular Head,"Biceps Brachii, Deltoid Anterior",01791301-Cable-Low-Fly_Chest-FIX_180.webp
+180,Cable Low Seated Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",01801301-Cable-Low-Seated-Row_Back_180.webp
+184,Cable Lying Extension Pullover (with rope attachment),Strength,Back,Cable,Male,Latissimus Dorsi,"Levator Scapulae, Pectoralis Major Sternal Head, Teres Major, Triceps Brachii",01841301-Cable-Lying-Extension-Pullover-(with-rope-attachment)_Back_180.webp
+185,Cable Lying Fly,Strength,Chest,Cable,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Biceps Brachii, Deltoid Anterior",01851301-Cable-Lying-Fly_Chest_180.webp
+187,Cable Lying Triceps Extension,Strength,Upper Arms,Cable,Male,Triceps Brachii,,01871301-Cable-Lying-Triceps-Extension_Upper-Arms_180.webp
+188,Cable Middle Fly,Strength,Chest,Cable,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Deltoid Lateral, Pectoralis Major Clavicular Head",01881301-Cable-Middle-Fly_Chest-FIX_180.webp
+190,Cable One Arm Curl,Strength,Upper Arms,Cable,Male,Biceps Brachii,"Brachialis, Brachioradialis",01901301-Cable-One-Arm-Curl_Upper-Arms_180.webp
+192,Cable One Arm Lateral Raise,Strength,Shoulders,Cable,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior",01921301-Cable-One-Arm-Lateral-Raise_Shoulders_180.webp
+194,Cable Overhead Triceps Extension (rope attachment),Strength,Upper Arms,Cable,Male,Triceps Brachii,,01941301-Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms_180.webp
+195,Cable Preacher Curl,Strength,Upper Arms,Cable,Male,Brachialis,"Biceps Brachii, Brachioradialis",01951301-Cable-Preacher-Curl_Upper-Arms-FIX_180.webp
+197,Cable Wide Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01971301-Cable-Wide-Pulldown_Back-FIX_180.webp
+198,Cable Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",01981301-Cable-Pulldown_Back_180.webp
+199,Cable Pushdown (straight arm) (version 2),Strength,Back,Cable,Male,Latissimus Dorsi,"Deltoid Posterior, Pectoralis Major Sternal Head, Teres Major, Triceps Brachii",01991301-Cable-Pushdown-(straight-arm)-II_Back_180.webp
+205,Cable Rear Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers",02051301-Cable-Rear-Pulldown_Back_180.webp
+208,Cable Reverse-grip Straight Back Seated High Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior",02081301-Cable-Reverse-grip-Straight-Back-Seated-High-Row_Back-AFIX_180.webp
+209,Cable Reverse Preacher Curl,Strength,Forearms,Cable,Male,Brachioradialis,"Biceps Brachii, Brachialis",02091301-Cable-Reverse-Preacher-Curl_Forearms_180.webp
+210,Cable Reverse Wrist Curl,Strength,Forearms,Cable,Male,Wrist Extensors,,02101301-Cable-Reverse-Wrist-Curl_Forearms-FIX_180.webp
+212,Cable Seated Crunch,Strength,Waist,Cable,Male,Rectus Abdominis,Obliques,02121301-Cable-Seated-Crunch_Waist-FIX_180.webp
+213,Cable Seated High Row (V-bar),Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",02131301-Cable-Seated-High-Row-(V-bar)_Back_180.webp
+215,Cable Seated Rear Lateral Raise,Strength,Shoulders,Cable,Male,Deltoid Posterior ,"Deltoid Lateral, Trapezius Lower Fibers, Trapezius Middle Fibers",02151301-Cable-Seated-Rear-Lateral-Raise_Shoulders_180.webp
+216,Cable Seated Shoulder Internal Rotation,Strength,Back,Cable,Male,"Teres Major, Teres Minor ","Deltoid Anterior, Latissimus Dorsi, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",02161301-Cable-Seated-Shoulder-Internal-Rotation_Back_180.webp
+218,Cable Seated Wide-grip Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior",02181301-Cable-Seated-Wide-grip-Row_Back_180.webp
+219,Cable Shoulder Press,Strength,Shoulders,Cable,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",02191301-Cable-Shoulder-Press_Shoulders_180.webp
+220,Cable Shrug,Strength,Back,Cable,Male,Trapezius Upper Fibers ,Trapezius Middle Fibers,02201301-Cable-Shrug_Back_180.webp
+222,Cable Side Bend,Strength,Waist,Cable,Male,Obliques,,02221301-Cable-Side-Bend_Waist-FIX_180.webp
+225,Cable Standing Cross-over High Reverse Fly,Strength,Shoulders,Cable,Male,Deltoid Posterior ,"Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",02251301-Cable-Standing-Cross-over-High-Reverse-Fly_Shoulders_180.webp
+227,Cable Standing Fly,Strength,Chest,Cable,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head",02271301-Cable-Standing-Fly_Chest-FIX_180.webp
+228,Cable Standing Hip Extension,Strength,Hips,Cable,Male,Gluteus Maximus,Hamstrings,02281301-Cable-Standing-Hip-Extension_Hips_180.webp
+229,Cable Standing Inner Curl,Strength,Upper Arms,Cable,Male,Biceps Brachii,Brachialis,02291301-Cable-Standing-Inner-Curl_Upper-Arms_180.webp
+235,Cable Standing Shoulder External Rotation,Strength,Back,Cable,Male,"Teres Major, Teres Minor ",Deltoid Posterior,02351301-Cable-Standing-Shoulder-External-Rotation_Back-FIX_180.webp
+238,Cable Straight Arm Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Deltoid Posterior, Teres Major, Triceps Brachii",02381301-Cable-Straight-Arm-Pulldown_Back_180.webp
+239,Cable Straight Back Seated Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",02391301-Cable-Straight-Back-Seated-Row_Back_180.webp
+240,Cable Supine Reverse Fly,Strength,Shoulders,Cable,Male,Deltoid Posterior ,"Deltoid Lateral, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",02401301-Cable-Supine-Reverse-Fly_Shoulders-FIX_180.webp
+241,Cable Triceps Pushdown (V-bar),Strength,Upper Arms,Cable,Male,Triceps Brachii,,02411301-Cable-Triceps-Pushdown-(V-bar-attachment)_Upper-Arms_180.webp
+242,Cable Tuck Reverse Crunch,Strength,Waist,Cable,Male,"Iliopsoas, Rectus Abdominis","Gluteus Maximus, Obliques, Quadriceps",02421301-Cable-Tuck-Reverse-Crunch_waist_180.webp
+243,Cable Twist,Strength,Waist,Cable,Male,Obliques,"Iliopsoas, Tensor Fasciae Latae",02431301-Cable-Twist_Waist_180.webp
+245,Cable Underhand Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",02451301-Cable-Underhand-Pulldown_Back_180.webp
+246,Cable Upright Row,Strength,Shoulders,Cable,Male,Deltoid Lateral,"Brachialis, Brachioradialis, Deltoid Anterior, Infraspinatus, Serratus Anterior, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",02461301-Cable-Upright-Row_Shoulders-FIX_180.webp
+247,Cable Wrist Curl,Strength,Forearms,Cable,Male,Wrist Flexors,,02471301-Cable-Wrist-Curl_Forearms-FIX_180.webp
+251,Chest Dip,Strength,Chest,Body weight,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Triceps Brachii",02511301-Chest-Dip_Chest_180.webp
+253,Chin-ups (narrow parallel grip),Strength,Back,Body weight,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",02531301-Chin-ups-(narrow-parallel-grip)_Back_180.webp
+259,Close-grip Push-up,Strength,Upper Arms,Body weight,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",02591301-Close-Grip-Push-up_Upper-Arms-FIX_180.webp
+260,Cocoons,Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Gluteus Maximus, Quadriceps",02601301-Cocoons_waist_180.webp
+262,Cross Body Crunch,Strength,Waist,Body weight,Male,"Obliques, Rectus Abdominis","Gluteus Maximus, Quadriceps",02621301-Cross-Body-Crunch_waist_180.webp
+271,Crunch (on stability ball),Strength,Waist,Stability ball,Male,Rectus Abdominis,Obliques,02711301-Crunch-(on-stability-ball)_waist_180.webp
+274,Crunch Floor,Strength,Waist,Body weight,Male,Rectus Abdominis,Obliques,02741301-Crunch-Floor-m_waist_180.webp
+279,Decline Push-Up,Strength,Chest,Body weight,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",02791301-Decline-Push-Up-m_chest_180.webp
+285,Dumbbell Alternate Biceps Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",02851301-Dumbbell-Alternate-Biceps-Curl_Upper-Arms-AFIX_180.webp
+287,Dumbbell Arnold Press (version 2),Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",02871301-Dumbbell-Arnold-Press-II_Shoulders_180.webp
+289,Dumbbell Bench Press,Strength,Chest,Dumbbell,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",02891301-Dumbbell-Bench-Press_Chest-FIX_180.webp
+290,Dumbbell Bench Seated Press,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",02901301-Dumbbell-Bench-Seated-Press_Shoulders-FIX_180.webp
+291,Dumbbell Bench Squat,Strength,Thighs,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",02911301-Dumbbell-Bench-Squat_thighs_180.webp
+292,Dumbbell One Arm Bent-over Row,Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",02921301-Dumbbell-Bent-over-Row_back_Back-AFIX_180.webp
+293,Dumbbell Bent Over Row,Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",02931301-Dumbbell-Bent-Over-Row_Back-FIX_180.webp
+294,Dumbbell Biceps Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",02941301-Dumbbell-Biceps-Curl_Upper-Arms_180.webp
+296,Dumbbell Close-grip Press,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Sternal Head",02961301-Dumbbell-Close-grip-Press_Upper-Arms_180.webp
+297,Dumbbell Concentration Curl,Strength,Upper Arms,Dumbbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",02971301-Dumbbell-Concentration-Curl_Upper-Arms-FIX_180.webp
+298,Dumbbell Cross Body Hammer Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",02981301-Dumbbell-Cross-Body-Hammer-Curl_Forearms_180.webp
+300,Dumbbell Deadlift,Strength,Back,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",03001301-Dumbbell-Deadlift_Hips-FIX_180.webp
+301,Dumbbell Decline Bench Press,Strength,Chest,Dumbbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",03011301-Dumbbell-Decline-Bench-Press_Chest-FIX_180.webp
+302,Dumbbell Decline Fly,Strength,Chest,Dumbbell,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Deltoid Anterior, Pectoralis Major Clavicular Head",03021301-Dumbbell-Decline-Fly_Chest_180.webp
+303,Dumbbell Decline Hammer Press,Strength,Chest,Dumbbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",03031301-Dumbbell-Decline-Hammer-Press_Chest_180.webp
+305,Dumbbell Decline Shrug,Strength,Back,Dumbbell,Male,Trapezius Upper Fibers ,Levator Scapulae,03051301-Dumbbell-Decline-Shrug_Back_180.webp
+306,Dumbbell Decline Triceps Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03061301-Dumbbell-Decline-Triceps-Extension_Upper-Arms_180.webp
+308,Dumbbell Fly,Strength,Chest,Dumbbell,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Biceps Brachii, Deltoid Anterior",03081301-Dumbbell-Fly_Chest-FIX_180.webp
+310,Dumbbell Front Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",03101301-Dumbbell-Front-Raise_Shoulders-FIX_180.webp
+312,Dumbbell Hammer Curl (version 2),Strength,Upper Arms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",03121301-Dumbbell-Hammer-Curl-II_Upper-Arms_180.webp
+313,Dumbbell Hammer Curl,Strength,Upper Arms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",03131301-Dumbbell-Hammer-Curl_Forearm_180.webp
+314,Dumbbell Incline Bench Press,Strength,Chest,Dumbbell,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",03141301-Dumbbell-Incline-Bench-Press_Chest-FIX_180.webp
+319,Dumbbell Incline Fly,Strength,Chest,Dumbbell,Male,Pectoralis Major Clavicular Head,"Biceps Brachii, Deltoid Anterior",03191301-Dumbbell-Incline-Fly_Chest-FIX_180.webp
+322,Dumbbell Incline Inner Biceps Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",03221301-Dumbbell-Incline-Inner-Biceps-Curl_Upper-Arms_180.webp
+325,Dumbbell Incline Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",03251301-Dumbbell-Incline-Raise_Shoulders_180.webp
+326,Dumbbell Incline Rear Lateral Raise,Strength,Shoulders,Dumbbell,Male,"Deltoid Lateral, Deltoid Posterior ","Deltoid Anterior, Trapezius Lower Fibers, Trapezius Middle Fibers",03261301-Dumbbell-Incline-Rear-Lateral-Raise_Shoulders-FIX_180.webp
+327,Dumbbell Incline Row,Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Pectoralis Major Sternal Head",03271301-Dumbbell-Incline-Row_Back_180.webp
+329,Dumbbell Incline Shrug,Strength,Back,Dumbbell,Male,Trapezius Upper Fibers ,Levator Scapulae,03291301-Dumbbell-Incline-Shrug_Back_180.webp
+330,Dumbbell Incline Triceps Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03301301-Dumbbell-Incline-Triceps-Extension_Upper-Arms-FIX_180.webp
+333,Dumbbell Kickback,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03331301-Dumbbell-Kickback_Upper-Arms_180.webp
+334,Dumbbell Lateral Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior",03341301-Dumbbell-Lateral-Raise_shoulder-AFIX_180.webp
+336,Dumbbell Lunge,Strength,Hips,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",03361301-Dumbbell-Lunge_Hips-FIX_180.webp
+338,Dumbbell Lying Elbow Press,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",03381301-Dumbbell-Lying-Elbow-Press_Triceps_180.webp
+339,Dumbbell Lying Femoral,Strength,Thighs,Dumbbell,Male,Hamstrings,"Gastrocnemius, Soleus",03391301-Dumbbell-Lying-Femoral_Thighs_180.webp
+340,Dumbbell Lying Hammer Press,Strength,Chest,Dumbbell,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",03401301-Dumbbell-Lying-Hammer-Press_Chest_180.webp
+351,Dumbbell Lying Triceps Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03511301-Dumbbell-Lying-Triceps-Extension_Upper-Arms-FIX_180.webp
+354,Dumbbell One Arm Kickback,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03541301-Dumbbell-One-Arm-Kickback_Upper-Arms_180.webp
+358,Dumbbell One arm Revers Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Extensors,,03581301-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_180.webp
+364,Dumbbell One arm Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Flexors,,03641301-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_180.webp
+365,Dumbbell Over Bench Neutral Wrist Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,,03651301-Dumbbell-Over-Bench-Neutral-Wrist-Curl_Forearms_180.webp
+366,Dumbbell Over Bench One Arm  Neutral Wrist Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,,03661301-Dumbbell-Over-Bench-One-Arm--Neutral-Wrist-Curl_Forearms_180.webp
+367,Dumbbell Over Bench One Arm Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Extensors,,03671301-Dumbbell-Over-Bench-One-Arm-Wrist-Curl_Forearms_180.webp
+368,Dumbbell Over Bench Revers Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Flexors,,03681301-Dumbbell-Over-Bench-Revers-Wrist-Curl_Forearms_180.webp
+369,Dumbbell Over Bench Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Extensors,,03691301-Dumbbell-Over-Bench-Wrist-Curl_Forearms_180.webp
+370,Dumbbell Peacher Hammer Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",03701301-Dumbbell-Peacher-Hammer-Curl_Forearms_180.webp
+375,Dumbbell Pullover,Strength,Chest,Dumbbell,Male,Pectoralis Major Sternal Head,"Deltoid Posterior, Latissimus Dorsi, Teres Major, Triceps Brachii",03751301-Dumbbell-Pullover_Chest_180.webp
+377,Dumbbell Rear Delt Row_shoulder,Strength,Shoulders,Dumbbell,Male,Deltoid Posterior ,"Brachialis, Brachioradialis, Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",03771301-Dumbbell-Rear-Delt-Row_shoulder_180.webp
+378,Dumbbell Rear Fly,Strength,Shoulders,Dumbbell,Male,Deltoid Posterior ,"Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",03781301-Dumbbell-Rear-Fly_Shoulders-FIX_180.webp
+380,Dumbbell Rear Lateral Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Posterior ,"Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",03801301-Dumbbell-Rear-Lateral-Raise_Shoulders-FIX_180.webp
+381,Dumbbell Rear Lunge,Strength,Thighs,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",03811301-Dumbbell-Rear-Lunge_Thighs_180.webp
+382,Dumbbell Revers grip Biceps Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",03821301-Dumbbell-Revers-grip-Biceps-Curl_Forearms_180.webp
+384,Dumbbell Reverse Preacher Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",03841301-Dumbbell-Reverse-Preacher-Curl_Forearms-FIX_180.webp
+385,Dumbbell Reverse Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Extensors,,03851301-Dumbbell-Reverse-Wrist-Curl_Forearm_180.webp
+389,Dumbbell Seated Bench Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03891301-Dumbbell-Seated-Bench-Extension_Upper-Arms-FIX_180.webp
+392,Dumbbell Seated Front Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",03921301-Dumbbell-Seated-Front-Raise_Shoulders_180.webp
+394,Dumbbell Seated Kickback,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,03941301-Dumbbell-Seated-Kickback_Upper-Arms_180.webp
+395,Dumbbell Seated Lateral Raise (version 2),Strength,Shoulders,Dumbbell,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior",03951301-Dumbbell-Seated-Lateral-Raise_Shoulders-FIX_180.webp
+397,Dumbbell Seated Neutral Wrist Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,,03971301-Dumbbell-Seated-Neutral-Wrist-Curl_Forearms_180.webp
+401,Dumbbell Seated Palms Up Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Flexors,,04011301-Dumbbell-Seated-Palms-Up-Wrist-Curl_Forearms_180.webp
+402,Dumbbell Seated Preacher Curl,Strength,Upper Arms,Dumbbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",04021301-Dumbbell-Seated-Preacher-Curl_Upper-Arms_180.webp
+403,Dumbbell Seated Revers grip Concentration Curl,Strength,Forearms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",04031301-Dumbbell-Seated-Revers-grip-Concentration-Curl_Forearms_180.webp
+405,Dumbbell Seated Shoulder Press,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",04051301-Dumbbell-Seated-Shoulder-Press_Shoulders_180.webp
+406,Dumbbell Shrug,Strength,Back,Dumbbell,Male,Trapezius Upper Fibers ,Trapezius Middle Fibers,04061301-Dumbbell-Shrug_Back-FIX_180.webp
+407,Dumbbell Side Bend,Strength,Waist,Dumbbell,Male,Obliques,,04071301-Dumbbell-Side-Bend_Waist-FIX_180.webp
+410,Dumbbell Single Leg Split Squat,Strength,Thighs,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",04101301-Dumbbell-Single-Leg-Split-Squat_Thighs-FIX_180.webp
+413,Dumbbell Squat,Strength,Hips,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",04131301-Dumbbell-Squat_Hips_180.webp
+415,Dumbbell Standing Alternate Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",04151301-Dumbbell-Standing-Alternate-Raise_Shoulders_180.webp
+416,Dumbbell Standing Biceps Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",04161301-Dumbbell-Standing-Biceps-Curl_Upper-Arms-FIX_180.webp
+417,Dumbbell Standing Calf Raise,Strength,Calves,Dumbbell,Male,Gastrocnemius,Soleus,04171301-Dumbbell-Standing-Calf-Raise_Calf_180.webp
+418,Dumbbell Standing Concentration Curl,Strength,Upper Arms,Dumbbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",04181301-Dumbbell-Standing-Concentration-Curl_Upper-Arms_180.webp
+420,Dumbbell Standing Kickback,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,04201301-Dumbbell-Standing-Kickback_Upper-Arms_180.webp
+421,Dumbbell Standing One Arm Concentration Curl,Strength,Upper Arms,Dumbbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",04211301-Dumbbell-Standing-One-Arm-Concentration-Curl_Upper-Arms_180.webp
+423,Dumbbell Standing One Arm Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,04231301-Dumbbell-Standing-One-Arm-Extension_Upper-Arms_180.webp
+427,Dumbbell Standing Palms In Press,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",04271301-Dumbbell-Standing-Palms-In-Press_Shoulders_180.webp
+430,Dumbbell Standing Triceps Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,04301301-Dumbbell-Standing-Triceps-Extension_Upper-Arms_180.webp
+431,Dumbbell Step-up,Strength,Hips,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Gastrocnemius, Soleus",04311301-Dumbbell-Step-up_Hips_180.webp
+432,Dumbbell Stiff Leg Deadlift,Strength,Hips,Dumbbell,Male,"Erector Spinae, Gluteus Maximus",Hamstrings,04321301-Dumbbell-Stiff-Leg-Deadlift_Waist_180.webp
+433,Dumbbell Straight Arm Pullover,Strength,Chest,Dumbbell,Male,Pectoralis Major Sternal Head,"Deltoid Posterior, Latissimus Dorsi, Levator Scapulae, Teres Major, Triceps Brachii",04331301-Dumbbell-Straight-Arm-Pullover_Chest-FIX_180.webp
+437,Dumbbell Upright Row,Strength,Shoulders,Dumbbell,Male,Deltoid Lateral,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Anterior, Infraspinatus, Serratus Anterior, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",04371301-Dumbbell-Upright-Row_Shoulders-FIX_180.webp
+439,Dumbbell Zottman Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",04391301-Dumbbell-Zottman-Curl_Upper-Arms-FIX_180.webp
+443,Elbow-To-Knee,Strength,Waist,Body weight,Male,"Obliques, Rectus Abdominis","Gluteus Maximus, Iliopsoas, Quadriceps",04431301-Elbow-to-Knee_waist_180.webp
+446,EZ Barbell Close-grip Curl,Strength,Upper Arms,EZ Barbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",04461301-EZ-Barbell-Close-grip-Curl_Upper-Arms_180.webp
+447,EZ Barbell Curl,Strength,Upper Arms,EZ Barbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",04471301-EZ-Barbell-Curl_Upper-Arms_180.webp
+449,EZ Barbell Incline Triceps Extension,Strength,Upper Arms,EZ Barbell,Male,Triceps Brachii,,04491301-EZ-Barbell-Incline-Triceps-Extension_Upper-Arms_180.webp
+451,EZ Barbell Reverse Grip Curl,Strength,Forearms,EZ Barbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",04511301-EZ-Barbell-Reverse-Grip-Curl_Forearms_180.webp
+452,EZ Barbell Reverse grip Preacher Curl,Strength,Forearms,EZ Barbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",04521301-EZ-Barbell-Reverse-grip-Preacher-Curl_Forearms-FIX_180.webp
+453,EZ Barbell Seated Triceps Extension,Strength,Upper Arms,EZ Barbell,Male,Triceps Brachii,,04531301-EZ-Barbell-Seated-Triceps-Extension_Upper-Arms-FIX_180.webp
+455,Finger Curls,Strength,Forearms,Barbell,Male,,,04551301-Finger-Curls_Forearms_180.webp
+459,Flutter Kicks,Strength,Hips,Body weight,Male,Gluteus Maximus,Hamstrings,04591301-Flutter-Kicks_hips_180.webp
+463,Front Plank,Strength,Waist,Body weight,Male,Rectus Abdominis,"Deltoid Anterior, Gluteus Maximus, Gluteus Medius, Obliques, Sartorius, Tensor Fasciae Latae",04631301-Front-Plank_waist-FIX_180.webp
+474,Hanging Straight Leg Hip Raise,Strength,Waist,Body weight,Male,Rectus Abdominis,"Adductor Brevis, Adductor Longus, Iliopsoas, Obliques, Quadriceps, Sartorius",04741301-Hanging-Straight-Leg-Hip-Raise_Waist_180.webp
+476,Hanging Straight Twisting Leg Hip Raise,Strength,Waist,Body weight,Male,"Obliques, Rectus Abdominis","Iliopsoas, Pectineous, Quadriceps",04761301-Hanging-Straight-Twisting-Leg-Hip-Raise_waist-FIX_180.webp
+484,Hip Raise (bent knee),Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Adductor Brevis, Adductor Longus, Obliques, Pectineous, Sartorius, Tensor Fasciae Latae",04841301-Hip-Raise-(bent-knee)_waist_180.webp
+488,Hyperextension (on bench),Strength,Waist,Body weight,Male,Erector Spinae,"Gluteus Maximus, Hamstrings",04881301-Hyperextension-(on-bench)_Waist_180.webp
+489,Hyperextension,Strength,Waist,Body weight,Male,Erector Spinae,"Gluteus Maximus, Hamstrings",04891301-Hyperextension_Waist-FIX_180.webp
+491,Incline Leg Hip Raise (leg straight),Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Adductor Brevis, Adductor Longus, Obliques, Pectineous, Quadriceps, Sartorius, Tensor Fasciae Latae",04911301-Incline-Leg-Hip-Raise-(leg-straight)_waist_180.webp
+494,Incline Reverse Grip Push-Up,Strength,Chest,Body weight,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Anterior, Pectoralis Major Clavicular Head",04941301-Incline-Reverse-Grip-Push-Up_chest_180.webp
+495,Incline Twisting Sit-up,Strength,Waist,Body weight,Male,"Iliopsoas, Obliques","Adductor Brevis, Adductor Longus, Pectineous, Quadriceps, Rectus Abdominis, Sartorius",04951301-Incline-Twisting-Situp_waist_180.webp
+499,Inverted Row,Strength,Back,Body weight,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",04991301-Inverted-Row_Back-FIX_180.webp
+507,Jackknife Sit-Up,Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Adductor Brevis, Adductor Longus, Obliques, Pectineous, Quadriceps, Sartorius, Tensor Fasciae Latae",05071301-Jackknife-Sit-Up_waist_180.webp
+571,Lever Single Arm Neutral Grip Seated Row (plate loaded),Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",05711301-Lever-Single-Arm-Neutral-Grip-Seated-Row-(plate-loaded)_Back-FIX_180.webp
+575,Lever Bicep Curl,Strength,Upper Arms,Leverage machine,Male,Brachialis,Biceps Brachii,05751301-Lever-Bicep-Curl_Upper-Arms_180.webp
+576,Lever Chest Press (plate loaded),Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",05761301-Lever-Chest-Press-(plate-loaded)_Chest_180.webp
+577,Lever Chest Press,Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",05771301-Lever-Chest-Press_Chest_180.webp
+578,Lever Deadlift (plate loaded),Strength,Thighs,Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",05781301-Lever-Deadlift-(plate-loaded)_Thighs_180.webp
+579,Lever Front Pulldown,Strength,Back,Leverage machine,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",05791301-Lever-Front-Pulldown_Back_180.webp
+580,Lever Gripless Shrug,Strength,Back,Leverage machine,Male,Trapezius Upper Fibers ,Trapezius Middle Fibers,05801301-Lever-Gripless-Shrug_Back_180.webp
+581,Lever High Row (plate loaded),Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",05811301-Lever-High-Row-(plate-loaded)_Back_180.webp
+582,Lever Kneeling Leg Curl (plate loaded),Strength,Thighs,Leverage machine,Male,Hamstrings,"Gastrocnemius, Soleus",05821301-Lever-Kneeling-Leg-Curl-(plate-loaded)_Thighs_180.webp
+584,Lever Lateral Raise,Strength,Shoulders,Leverage machine,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior",05841301-Lever-Lateral-Raise_shoulder_180.webp
+585,Lever Leg Extension,Strength,Thighs,Leverage machine,Male,Quadriceps,,05851301-Lever-Leg-Extension_Thighs_180.webp
+586,Lever Lying Leg Curl,Strength,Thighs,Leverage machine,Male,Hamstrings,"Gastrocnemius, Soleus",05861301-Lever-Lying-Leg-Curl_Thighs_180.webp
+587,Lever Military Press (plate loaded),Strength,Shoulders,Leverage machine,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",05871301-Lever-Military-Press-(plate-loaded)_shoulder_180.webp
+588,Lever Neutral Grip Seated Row (plate loaded),Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",05881301-Lever-Neutral-Grip-Seated-Row-(plate-loaded)_Back-FIX_180.webp
+591,Lever Overhand Triceps Dip,Strength,Upper Arms,Leverage machine,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",05911301-Lever-Overhand-Triceps-Dip_Upper-Arms_180.webp
+592,Lever Preacher Curl,Strength,Upper Arms,Leverage machine,Male,Brachialis,"Biceps Brachii, Brachioradialis",05921301-Lever-Preacher-Curl_Upper-Arms-FIX_180.webp
+594,Lever Seated Calf Raise (plate loaded),Strength,Calves,Leverage machine,Male,Soleus,Gastrocnemius,05941301-Lever-Seated-Calf-Raise-(plate-loaded)_Calf_180.webp
+595,Lever Seated Crunch (chest pad),Strength,Waist,Leverage machine,Male,Rectus Abdominis,Obliques,05951301-Lever-Seated-Crunch-(chest-pad)_Waist_180.webp
+596,Lever Seated Fly,Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Pectoralis Major Clavicular Head, Serratus Anterior",05961301-Lever-Seated-Fly_Chest_180.webp
+597,Lever Seated Hip Abduction,Strength,Hips,Leverage machine,Male,"Gluteus Maximus, Gluteus Medius",Tensor Fasciae Latae,05971301-Lever-Seated-Hip-Abduction_Hips-FIX_180.webp
+598,Lever Seated Hip Adduction,Strength,Thighs,Leverage machine,Male,"Adductor Longus, Adductor Magnus","Adductor Brevis, Gracilis",05981301-Lever-Seated-Hip-Adduction_Hips-FIX_180.webp
+599,Lever Seated Leg Curl,Strength,Thighs,Leverage machine,Male,Hamstrings,"Gastrocnemius, Sartorius",05991301-Lever-Seated-Leg-Curl_Thighs-FIX_180.webp
+602,Lever Seated Reverse Fly,Strength,Shoulders,Leverage machine,Male,Deltoid Posterior ,"Deltoid Lateral, Infraspinatus, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",06021301-Lever-Seated-Reverse-Fly_Shoulders_180.webp
+604,Lever Shrug (plate loaded),Strength,Back,Leverage machine,Male,Trapezius Upper Fibers ,"Levator Scapulae, Trapezius Middle Fibers",06041301-Lever-Shrug-(plate-loaded)_Back_180.webp
+605,Lever Standing Calf Raise,Strength,Calves,Leverage machine,Male,Gastrocnemius,Soleus,06051301-Lever-Standing-Calf-Raise_Calf_180.webp
+606,Lever T bar Row (plate loaded),Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",06061301-Lever-T-bar-Row-(plate-loaded)_Back-AFIX_180.webp
+607,Lever Triceps Extension,Strength,Upper Arms,Leverage machine,Male,Triceps Brachii,,06071301-Lever-Triceps-Extension_Upper-Arms_180.webp
+620,Lying Leg Raise Flat Bench,Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Adductor Brevis, Adductor Longus, Gluteus Maximus, Pectineous, Quadriceps, Sartorius",06201301-Lying-Leg-Raise-Flat-Bench_waist_180.webp
+650,Pull-In (on stability ball),Strength,Waist,Stability ball,Male,"Iliopsoas, Rectus Abdominis","Obliques, Pectineous, Sartorius, Tensor Fasciae Latae",06501301-Pull-In-(on-stability-ball)_waist_180.webp
+651,Pull up (neutral grip),Strength,Back,Body weight,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Teres Major, Trapezius Lower Fibers",06511301-Pull-up-(neutral-grip)_Back_180.webp
+652,Pull-up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",06521301-Pull-up_Back_180.webp
+662,Push-up,Strength,Chest,Body weight,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",06621301-Push-up-m_Chest-FIX_180.webp
+668,Rear Decline Bridge,Strength,Waist,Body weight,Male,Gluteus Maximus,"Hamstrings, Quadriceps",06681301-Rear-Decline-Bridge_Waist-FIX_180.webp
+670,Rear Pull-up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",06701301-Rear-Pull-up_Back_180.webp
+672,Reverse Dip,Strength,Upper Arms,Body weight,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",06721301-Reverse-Dip_Upper-Arms_180.webp
+673,Reverse grip machine lat pulldown,Strength,Back,Leverage machine,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",06731301-reverse-grip-machine-lat-pulldown_Back_180.webp
+689,Seated Leg Raise,Strength,Waist,Body weight,Male,Rectus Abdominis,"Iliopsoas, Obliques",06891301-Seated-Leg-Raise_waist_180.webp
+715,Side Plank,Strength,Waist,Body weight,Male,Obliques,,07151301-Side-Plank-(male)_Waist-FIX_180.webp
+735,Sit-Up (version 2),Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Obliques, Pectineous, Quadriceps, Sartorius, Tensor Fasciae Latae",07351301-Sit-Up-II_waist_180.webp
+742,Sled Forward Angled Calf Raise,Strength,Calves,Sled machine,Male,Gastrocnemius,Soleus,07421301-Sled-Forward-Angled-Calf-Raise_Calf-FIX_180.webp
+743,Sled Hack Squat,Strength,Hips,Sled machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",07431301-Sled-Hack-Squat_Hips-FIX_180.webp
+744,Sled Lying Squat,Strength,Thighs,Sled machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",07441301-Sled-Lying-Squat_Thighs_180.webp
+747,Smith Behind Neck Press,Strength,Shoulders,Smith machine,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",07471301-Smith-Behind-Neck-Press_shoulder_180.webp
+748,Smith Bench Press,Strength,Chest,Smith machine,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",07481301-Smith-Bench-Press_Chest-FIX2_180.webp
+750,Smith Chair Squat,Strength,Thighs,Smith machine,Male,"Quadriceps, Soleus","Adductor Magnus, Gluteus Maximus",07501301-Smith-Chair-Squat_Thighs_180.webp
+751,Smith Close-Grip Bench Press,Strength,Upper Arms,Smith machine,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",07511301-Smith-Close-Grip-Bench-Press_Upper-Arms_180.webp
+752,Smith Deadlift,Strength,Hips,Smith machine,Male,"Erector Spinae, Gluteus Maximus","Adductor Magnus, Hamstrings, Quadriceps, Soleus",07521301-Smith-Deadlift_Hips-FIX_180.webp
+753,Smith Decline Bench Press,Strength,Chest,Smith machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",07531301-Smith-Decline-Bench-Press_Chest_180.webp
+754,Smith Decline Reverse-grip Press,Strength,Chest,Smith machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",07541301-Smith-Decline-Reverse-grip-Press_Chest_180.webp
+757,Smith Incline Bench Press,Strength,Chest,Smith machine,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",07571301-Smith-Incline-Bench-Press_Chest-FIX_180.webp
+758,Smith Incline Reverse-grip Press,Strength,Chest,Smith machine,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",07581301-Smith-Incline-Reverse-grip-Press_Chest_180.webp
+760,Smith Leg Press,Strength,Thighs,Smith machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",07601301-Smith-Leg-Press_Thighs_180.webp
+761,Smith Bent Over Narrow Supinated Grip Row,Strength,Back,Smith machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",07611301-Smith-Bent-Over-Narrow-Supinated-Grip-Row_Back_180.webp
+763,Smith Reverse Calf Raises,Strength,Calves,Smith machine,Male,"Gastrocnemius, Tibialis Anterior",Soleus,07631301-Smith-Reverse-Calf-Raises_calf_180.webp
+764,Smith Reverse-grip Press,Strength,Chest,Smith machine,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",07641301-Smith-Reverse-grip-Press_Chest_180.webp
+765,Smith Seated Shoulder Press,Strength,Shoulders,Smith machine,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",07651301-Smith-Seated-Shoulder-Press_Shoulders_180.webp
+766,Smith Shoulder Press,Strength,Shoulders,Smith machine,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",07661301-Smith-Shoulder-Press_shoulder_180.webp
+767,Smith Shrug,Strength,Back,Smith machine,Male,Trapezius Upper Fibers ,"Levator Scapulae, Trapezius Middle Fibers",07671301-Smith-Shrug_Back_180.webp
+768,Smith Single Leg Split Squat,Strength,Thighs,Smith machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",07681301-Smith-Single-Leg-Split-Squat_thighs_180.webp
+769,Smith Sprint Lunge,Strength,Thighs,Smith machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",07691301-Smith-Split-Squat_Thighs-FIX_180.webp
+770,Smith Squat,Strength,Hips,Smith machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",07701301-Smith-Squat_Hips_180.webp
+772,Smith Standing Behind Head Military Press,Strength,Shoulders,Smith machine,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",07721301-Smith-Standing-Behind-Head-Military-Press_Shoulders_180.webp
+774,Smith Standing Military Press,Strength,Shoulders,Smith machine,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",07741301-Smith-Standing-Military-Press_Shoulders_180.webp
+775,Smith Upright Row,Strength,Shoulders,Smith machine,Male,Deltoid Lateral,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Anterior, Infraspinatus, Serratus Anterior, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",07751301-Smith-Upright-Row_shoulder_180.webp
+814,Triceps Dip,Strength,Upper Arms,Body weight,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",08141301-Triceps-Dip_Upper-Arms_180.webp
+815,Triceps Dips Floor,Strength,Upper Arms,Body weight,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",08151301-Triceps-Dips-Floor_Upper-Arms_180.webp
+818,Twin handle parallel grip lat pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",08181301-twin-handle-parallel-grip-lat-pulldown_Back_180.webp
+826,Vertical Leg Raise (on parallel bars),Strength,Hips,Body weight,Male,Iliopsoas,"Adductor Brevis, Adductor Longus, Pectineous, Sartorius, Tensor Fasciae Latae",08261301-Vertical-Leg-Raise-(on-parallel-bars)_Hips_180.webp
+830,Weighted Bench Dip,Strength,Upper Arms,Weighted,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",08301301-Weighted-Bench-Dip_Upper-Arms_180.webp
+838,Weighted Lying Side Lifting Head (with head harness),Strength,Neck,Weighted,Male,Sternocleidomastoid,"Levator Scapulae, Trapezius Upper Fibers",08381301-Weighted-Lying-Side-Lifting-Head-(with-head-harness)_Neck_180.webp
+848,Weighted Seated Neck Extension (with head harness),Strength,Neck,Weighted,Male,Splenius,"Levator Scapulae, Sternocleidomastoid, Trapezius Upper Fibers",08481301-Weighted-Seated-Neck-Extension-(with-head-harness)_Neck_180.webp
+860,Cable kickback,Strength,Upper Arms,Cable,Male,Triceps Brachii,,08601301-Cable-kickback_Upper-arms-FIX_180.webp
+861,Cable seated row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",08611301-Cable-seated-row_Back_180.webp
+864,Dumbbell Upright Shoulder External Rotation,Strength,Back,Dumbbell,Male,"Teres Major, Teres Minor ",,08641301-Dumbbell-Upright-Shoulder-External-Rotation_Back_180.webp
+866,Weighted Hanging leg-hip raise,Strength,Waist,Weighted,Male,Rectus Abdominis,"Adductor Brevis, Adductor Longus, Iliopsoas, Obliques, Pectineous, Sartorius, Tensor Fasciae Latae",08661301-Weighted-Hanging-leg-hip-raise_Waist_180.webp
+868,Cable Curl,Strength,Upper Arms,Cable,Male,Biceps Brachii,"Brachialis, Brachioradialis",08681301-Cable-Curl-(male)_Upper-Arms-FIX_180.webp
+869,Lever Shoulder Press (plate loaded) version 2,Strength,Shoulders,Leverage machine,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",08691301-Lever-Shoulder-Press-(plate-loaded)-II_Shoulders_180.webp
+870,Butt-ups,Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Gluteus Maximus, Hamstrings, Obliques",08701301-Butt-ups_waist_180.webp
+871,Tuck Crunch,Strength,Waist,Body weight,Male,Rectus Abdominis,Obliques,08711301-Tuck-Crunch_waist_180.webp
+872,Reverse Crunch,Strength,Waist,Body weight,Male,Rectus Abdominis,Obliques,08721301-Reverse-Crunch-m_waist_180.webp
+873,Cable Reverse Crunch,Strength,Waist,Cable,Male,Rectus Abdominis,Obliques,08731301-Cable-Reverse-Crunch_waist_180.webp
+874,Cable Standing Crunch (with rope attachment),Strength,Waist,Cable,Male,Rectus Abdominis,Obliques,08741301-Cable-Standing-Crunch-(with-rope-attachment)_Waist-FIX_180.webp
+1029,Lever Parallel Chest Press,Strength,Chest,Leverage machine,Male,Gluteus Maximus,Hamstrings,10291301-Lever-Parallel-Chest-Press_Chest_180.webp
+1030,Lever Pec Deck Fly,Strength,Chest,Leverage machine,Male,Biceps Brachii,"Brachialis, Brachioradialis",10301301-Lever-Pec-Deck-Fly_Chest_180.webp
+1031,Lever Standing Hip Extension,Strength,Hips,Leverage machine,Male,Triceps Brachii,,10311301-Lever-Standing-Hip-Extension_Hips_180.webp
+1032,Lever Alternate Biceps Curl,Strength,Upper Arms,Leverage machine,Male,"Gluteus Medius, Tensor Fasciae Latae",,10321301-Lever-Alternate-Biceps-Curl_Upper-Arms_180.webp
+1033,Lever Triceps Extension,Strength,Upper Arms,Leverage machine,Male,"Adductor Longus, Adductor Magnus","Adductor Brevis, Gracilis, Pectineous",10331301-Lever-Triceps-Extension_Upper-Arms_180.webp
+1034,Lever Side Hip Abduction,Strength,Hips,Leverage machine,Male,Iliopsoas,"Adductor Brevis, Adductor Longus, Pectineous, Sartorius",10341301-Lever-Side-Hip-Abduction_Hips_180.webp
+1035,Lever Side Hip Adduction,Strength,Hips,Leverage machine,Male,Gluteus Maximus,,10351301-Lever-Side-Hip-Adduction_Hips_180.webp
+1036,Lever Standing Leg Raise,Strength,Hips,Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",10361301-Lever-Standing-Leg-Raise_Hips_180.webp
+1037,Lever Standing Rear Kick,Strength,Hips,Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",10371301-Lever-Standing-Rear-Kick_Hips_180.webp
+1038,Lever Chair Squat,Strength,Thighs,Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",10381301-Lever-Chair-Squat_Thighs_180.webp
+1039,Lever Full Squat,Strength,Thighs,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",10391301-Lever-Full-Squat_Thighs_180.webp
+1040,Lever Pistol Squat,Strength,Thighs,Leverage machine,Male,Splenius,"Levator Scapulae, Sternocleidomastoid",10401301-Lever-Pistol-Squat_Thighs_180.webp
+1041,Lever Lying Chest Press (plate loaded),Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",10411301-Lever-Lying-Chest-Press-(plate-loaded)_Chest_180.webp
+1042,Weighted Lying Neck Extension,Strength,Neck,Weighted,Male,Splenius,"Levator Scapulae, Sternocleidomastoid",10421301-Weighted-Lying-Neck-Extension_neck_180.webp
+1043,Weighted Lying Neck Flexion,Strength,Neck,Weighted,Male,Sternocleidomastoid,"Levator Scapulae, Splenius",10431301-Weighted-Lying-Neck-Flexion_neck_180.webp
+1045,Barbell Seated Military Press (inside squat cage),Strength,Shoulders,Barbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",10451301-Barbell-Seated-Military-Press-(inside-squat-cage)_Shoulders_180.webp
+1046,Cable Elevated Row,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Pectoralis Major Sternal Head, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",10461301-Cable-Elevated-Row_Back_180.webp
+1047,Cable Close-Grip Front Lat Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",10471301-Cable-Close-Grip-Front-Lat-Pulldown_Back_180.webp
+1060,Barbell Hip Thrust,Strength,Hips,Barbell,Male,Gluteus Maximus,"Hamstrings, Quadriceps",10601301-Barbell-Hip-Thrust_Hips_180.webp
+1160,Burpee,Aerobic,Cardio,Body weight,Male,,,11601301-Burpee_Cardio_180.webp
+1162,Barbell Standing Military Press,Strength,Shoulders,Barbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",11621301-Barbell-Standing-Military-Press_Shoulders_180.webp
+1163,Lying Leg Raise,Strength,Waist,Body weight,Male,Rectus Abdominis,"Gluteus Maximus, Iliopsoas, Quadriceps, Sartorius, Tensor Fasciae Latae",11631301-Lying-Leg-Raise_Waist_180.webp
+1164,Smith Calf Raise (version 2),Strength,Calves,Smith machine,Male,Gastrocnemius,Soleus,11641301-Smith-Calf-Raise-(version-2)_Calves_180.webp
+1173,Barbell Incline Wide Reverse-grip Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Clavicular Head,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Anterior, Pectoralis Major Sternal Head, Serratus Anterior, Triceps Brachii",11731301-Barbell-Incline-Wide-Reverse-grip-Bench-Press_Chest_180.webp
+1176,Dumbbell Incline Front Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",11761301-Dumbbell-Incline-Front-Raise_Shoulders_180.webp
+1177,Dumbbell Lying Hammer Press (version 2),Strength,Chest,Dumbbell,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",11771301-Dumbbell-Lying-Hammer-Press-(version-2)_Chest_180.webp
+1179,Flutter Kicks (version 2),Strength,Hips,Body weight,Male,Gluteus Maximus,Hamstrings,11791301-Flutter-Kicks-(version-2)_Hips_180.webp
+1190,Incline Twisting Sit-up (version 2),Strength,Waist,Body weight,Male,"Iliopsoas, Obliques","Pectineous, Quadriceps, Rectus Abdominis, Tensor Fasciae Latae",11901301-Incline-Twisting-Sit-up-(version-2)_Waist-FIX_180.webp
+1194,Lever Lying T-bar Row,Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Biceps Brachii, Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head, Triceps Brachii",11941301-Lever-Lying-T-bar-Row_Back_180.webp
+1195,Lever Incline Hammer Chest Press,Strength,Chest,Leverage machine,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Pectoralis Major Sternal Head, Triceps Brachii",11951301-Lever-Incline-Hammer-Chest-Press_Chest_180.webp
+1196,Dumbbell Alternate Biceps Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",11961301-Dumbbell-Alternate-Biceps-Curl_Upper-Arms_180.webp
+1197,Squat (male),Strength,Thighs,Body weight,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",11971301-Squat-m_Thighs_180.webp
+1202,Cable horizontal Pallof Press,Strength,Waist,Cable,Male,Obliques,,12021301-Cable-horizontal-Pallof-Press_waist_180.webp
+1203,Cable one arm inner biceps curl,Strength,Upper Arms,Cable,Male,Brachialis,"Biceps Brachii, Brachioradialis",12031301-Cable-one-arm-inner-biceps-curl_upper-arms_180.webp
+1206,Cable pull through,Strength,Hips,Cable,Male,Gluteus Maximus,"Erector Spinae, Hamstrings",12061301-Cable-pull-through_hips_180.webp
+1213,Cable vertical Pallof Press,Strength,Waist,Cable,Male,Obliques,,12131301-Cable-vertical-Pallof-Press_waist_180.webp
+1214,Dumbbell Incline reverse-grip 30 degrees bench press,Strength,Chest,Dumbbell,Male,Pectoralis Major Clavicular Head,"Biceps Brachii, Deltoid Anterior, Pectoralis Major Sternal Head, Triceps Brachii",12141301-Dumbbell-Incline-reverse-grip-30-degrees-bench-press_chest_180.webp
+1216,Lever seated one leg calf raise,Strength,Calves,Leverage machine,Male,Soleus,Gastrocnemius,12161301-Lever-seated-one-leg-calf-raise_calves_180.webp
+1220,Lever Calf Raise (bench press machine),Strength,Calves,Leverage machine,Male,Gastrocnemius,Soleus,12201301-Lever-Calf-Raise-(bench-press-machine)_Calves_180.webp
+1221,Lever Shrug (bench press machine),Strength,Back,Leverage machine,Male,Trapezius Upper Fibers ,"Levator Scapulae, Trapezius Middle Fibers",12211301-Lever-Shrug-(bench-press-machine)_Back_180.webp
+1223,Underhand-Grip Inverted Back Row,Strength,Back,Body weight,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Biceps Brachii, Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head, Triceps Brachii",12231301-Underhand-Grip-Inverted-Back-Row_180.webp
+1228,Dumbbell Standing Inner Biceps Curl,Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,Brachialis,12281301-Dumbbell-Standing-Inner-Biceps-Curl_Upper-Arms_180.webp
+1232,Lever Seated Squat,Strength,Thighs,Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",12321301-Lever-Seated-Squat_Thighs_180.webp
+1236,Dumbbell One Arm Row (rack support),Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",12361301-Dumbbell-One-Arm-Row-(rack-support)_Back_180.webp
+1237,Lever Row (plate loaded),Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",12371301-Lever-Row-(plate-loaded)_Back_180.webp
+1238,Cable Seated Row (Bent bar),Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",12381301-Cable-Seated-Row-(Bent-bar)_Back_180.webp
+1244,Flutter Kicks (version 3),Strength,Hips,Body weight,Male,Iliopsoas,"Adductor Brevis, Adductor Longus, Pectineous, Quadriceps, Sartorius, Tensor Fasciae Latae",12441301-Flutter-Kicks-(version-3)_Hips-FIX_180.webp
+1245,Lying Leg Raise and Hold,Strength,Hips,Body weight,Male,Iliopsoas,"Quadriceps, Rectus Abdominis",12451301-Lying-Leg-Raise-and-Hold_Hips_180.webp
+1247,Russian Twist (with medicine ball),Strength,Waist,Medicine Ball,Male,Obliques,Rectus Abdominis,12471301-Russian-Twist-(with-medicine-ball)_Waist_180.webp
+1248,Half Wipers (bent leg),Strength,Waist,Body weight,Male,Obliques,,12481301-Half-Wipers-(bent-leg)_Waist_180.webp
+1249,Wipers (straight leg),Strength,Waist,Body weight,Male,Obliques,,12491301-Wipers-(straight-leg)_Waist_180.webp
+1253,Lever Donkey Calf Raise,Strength,Calves,Leverage machine,Male,Gastrocnemius,Soleus,12531301-Lever-Donkey-Calf-Raise_Calves_180.webp
+1255,Barbell Decline Pullover,Strength,Chest,Barbell,Male,Pectoralis Major Sternal Head,"Deltoid Posterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Teres Major",12551301-Barbell-Decline-Pullover_Chest_180.webp
+1256,Barbell Reverse Grip Decline Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",12561301-Barbell-Reverse-Grip-Decline-Bench-Press_Chest_180.webp
+1257,Barbell Reverse Grip Incline Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",12571301-Barbell-Reverse-Grip-Incline-Bench-Press_Chest_180.webp
+1258,Barbell Wide Reverse Grip Bench Press,Strength,Chest,Barbell,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",12581301-Barbell-Wide-Reverse-Grip-Bench-Press_Chest_180.webp
+1261,Cable Decline Press,Strength,Chest,Cable,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",12611301-Cable-Decline-Press_Chest-FIX_180.webp
+1269,Cable Standing Up Straight Crossovers,Strength,Chest,Cable,Male,Pectoralis Major Sternal Head,"Biceps Brachii, Deltoid Anterior, Pectoralis Major Clavicular Head",12691301-Cable-Standing-Up-Straight-Crossovers_Chest_180.webp
+1270,Cable Upper Chest Crossovers,Strength,Chest,Cable,Male,Pectoralis Major Clavicular Head,"Biceps Brachii, Deltoid Anterior",12701301-Cable-Upper-Chest-Crossovers_Chest_180.webp
+1299,Lever Incline Chest Press,Strength,Chest,Leverage machine,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",12991301-Leverage-Incline-Chest-Press_Chest_180.webp
+1300,Lever Decline Chest Press,Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",13001301-Lever-Decline-Chest-Press_Chest_180.webp
+1301,Machine Inner Chest Press,Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",13011301-Machine-Inner-Chest-Press_Chest_180.webp
+1308,Smith Wide Grip Bench Press,Strength,Chest,Smith machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",13081301-Smith-Wide-Grip-Bench-Press_Chest_180.webp
+1309,Smith Wide Grip Decline Bench Press,Strength,Chest,Smith machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",13091301-Smith-Wide-Grip-Decline-Bench-Press_Chest_180.webp
+1311,Wide Hand Push up,Strength,Chest,Body weight,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",13111301-Wide-Hand-Push-up_Chest_180.webp
+1313,Lever Unilateral Row,Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13131301-Lever-Unilateral-Row_Back_180.webp
+1316,Barbell Bent Arm Pullover,Strength,Back,Barbell,Male,Latissimus Dorsi,"Levator Scapulae, Pectoralis Major Sternal Head, Teres Major, Triceps Brachii",13161301-Barbell-Bent-Arm-Pullover_Back_180.webp
+1317,Barbell Reverse Grip Incline Bench Row,Strength,Back,Barbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior",13171301-Barbell-Reverse-Grip-Incline-Bench-Row_Back_180.webp
+1321,Cable Rope Elevated Seated Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13211301-Cable-Rope-Elevated-Seated-Row_Back_180.webp
+1323,Cable Rope Seated Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13231301-Cable-Rope-Seated-Row_Back_180.webp
+1324,Cable Upper Row,Strength,Back,Cable,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13241301-Cable-Upper-Row_Back_180.webp
+1325,Cable Wide Grip Behind Neck Pulldown,Strength,Back,Cable,Male,Latissimus Dorsi,"Teres Major, Trapezius Lower Fibers",13251301-Cable-Wide-Grip-Behind-Neck-Pulldown_Back-FIX_180.webp
+1326,Chin-Up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",13261301-Chin-Up_Back-FIX_180.webp
+1327,Close Grip Chin-Up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Biceps Brachii, Brachialis, Brachioradialis, Deltoid Posterior, Levator Scapulae, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",13271301-Close-Grip-Chin-Up_Back_180.webp
+1328,Dumbbell Lying Rear Delt Row,Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13281301-Dumbbell-Lying-Rear-Delt-Row_Back_180.webp
+1329,Dumbbell Palm Rotational Bent Over Row,Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13291301-Dumbbell-Palm-Rotational-Bent-Over-Row_Back_180.webp
+1331,Dumbbell Reverse Grip Incline Bench Two Arm Row,Strength,Back,Dumbbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13311301-Dumbbell-Reverse-Grip-Incline-Bench-Two-Arm-Row_Back_180.webp
+1344,EZ Bar Reverse Grip Bent Over Row,Strength,Back,EZ Barbell,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13441301-EZ-Bar-Reverse-Grip-Bent-Over-Row_Back_180.webp
+1348,Lever Reverse Grip Vertical Row,Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13481301-Lever-Reverse-Grip-Vertical-Row_Back_180.webp
+1349,Lever Reverse T-Bar Row,Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13491301-Lever-Reverse-T-Bar-Row_Back_180.webp
+1350,Lever Seated Row,Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13501301-Lever-Seated-Row_Back_180.webp
+1351,Lever T-Bar Reverse Grip Row,Strength,Back,Leverage machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13511301-Lever-T-Bar-Reverse-Grip-Row_Back_180.webp
+1359,Smith Bent Over Row,Strength,Back,Smith machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",13591301-Smith-Bent-Over-Pronated-Grip-Row_Back-FIX_180.webp
+1361,Smith Reverse Grip Bent Over Row,Strength,Back,Smith machine,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Biceps Brachii, Brachialis, Deltoid Posterior, Pectoralis Major Sternal Head",13611301-Smith-Reverse-Grip-Bent-Over-Row_Back_180.webp
+1367,Wide Grip Rear Pull-Up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Biceps Brachii, Brachialis, Pectoralis Major Sternal Head, Teres Major, Trapezius Lower Fibers",13671301-Wide-Grip-Rear-Pull-Up_Back_180.webp
+1370,Barbell Floor Calf Raise,Strength,Calves,Barbell,Male,Gastrocnemius,Soleus,13701301-Barbell-Floor-Calf-Raise_Calves_180.webp
+1373,Bodyweight Standing Calf Raise,Strength,Calves,Body weight,Male,Gastrocnemius,Soleus,13731301-Bodyweight-Standing-Calf-Raise_Calves_180.webp
+1375,Cable Standing Calf Raise,Strength,Calves,Cable,Male,Gastrocnemius,Soleus,13751301-Cable-Standing-Calf-Raise_Calves_180.webp
+1383,Hack Calf Raise,Strength,Calves,Sled machine,Male,Gastrocnemius,Soleus,13831301-Hack-Calf-Raise_Calves_180.webp
+1391,Sled Calf Press On Leg Press,Strength,Calves,Sled machine,Male,Gastrocnemius,Soleus,13911301-Sled-Calf-Press-On-Leg-Press_Calves_180.webp
+1394,Smith Reverse Calf Raises,Strength,Calves,Smith machine,Male,Gastrocnemius,Soleus,13941301-Smith-Reverse-Calf-Raises_Calves_180.webp
+1396,Smith Toe Raise,Strength,Calves,Smith machine,Male,Gastrocnemius,Soleus,13961301-Smith-Toe-Raise_Calves_180.webp
+1415,Dumbbell One Arm Seated Neutral Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Extensors,,14151301-Dumbbell-One-Arm-Seated-Neutral-Wrist-Curl_Forearms_180.webp
+1423,Reverse Hyper on Flat Bench,Strength,Hips,Body weight,Male,Gluteus Maximus,Hamstrings,14231301-Reverse-Hyper-on-Flat-Bench_Hips_180.webp
+1426,Smith Seated Wrist Curl,Strength,Forearms,Smith machine,Male,Wrist Flexors,,14261301-Smith-Seated-Wrist-Curl_Forearms_180.webp
+1429,Wide Grip Pull-Up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Biceps Brachii, Brachialis, Brachioradialis, Teres Major, Trapezius Lower Fibers, Trapezius Middle Fibers",14291301-Wide-Grip-Pull-Up_Back_180.webp
+1433,Smith Front Squat (Clean Grip),Strength,Thighs,Smith machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",14331301-Smith-Front-Squat-(Clean-Grip)_Thighs_180.webp
+1434,Smith Low Bar Squat,Strength,Thighs,Smith machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",14341301-Smith-Low-Bar-Squat_Thighs_180.webp
+1435,Barbell Low Bar Squat,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",14351301-Barbell-Low-Bar-Squat_Thighs_180.webp
+1436,Barbell High Bar Squat,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",14361301-Barbell-High-Bar-Squat_Thighs_180.webp
+1437,Dumbbell finger curls,Strength,Forearms,Dumbbell,Male,,,14371301-Dumbbell-finger-curls_Hand_180.webp
+1439,Lever Gripless Shrug (VERSION 2),Strength,Back,Leverage machine,Male,Trapezius Upper Fibers ,"Levator Scapulae, Trapezius Middle Fibers",14391301-Lever-Gripless-Shrug-(VERSION-2)_Back_180.webp
+1441,Dumbbell Over Bench One Arm Reverse Wrist Curl,Strength,Forearms,Dumbbell,Male,Wrist Flexors,,14411301-Dumbbell-Over-Bench-One-Arm-Reverse-Wrist-Curl_Forearms_180.webp
+1451,Lever Seated Dip,Strength,Upper Arms,Leverage machine,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",14511301-Lever-Seated-Dip_Upper-Arms_180.webp
+1452,Lever Seated Crunch,Strength,Waist,Leverage machine,Male,Rectus Abdominis,Obliques,14521301-Lever-Seated-Crunch_Waist_180.webp
+1453,Lever Seated Twist,Strength,Waist,Leverage machine,Male,Obliques,,14531301-Lever-Seated-Twist_Waist_180.webp
+1454,Lever Seated Shoulder Press,Strength,Shoulders,Leverage machine,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",14541301-Lever-Seated-Shoulder-Press_Shoulders_180.webp
+1455,Lever Chest Press (VERSION 2),Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",14551301-Lever-Chest-Press-(VERSION-2)_Chest_180.webp
+1456,Barbell Standing Close Grip Military Press,Strength,Shoulders,Barbell,Male,"Deltoid Anterior, Triceps Brachii","Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior",14561301-Barbell-Standing-Close-Grip-Military-Press_Shoulders_180.webp
+1457,Barbell Standing Wide Military Press,Strength,Shoulders,Barbell,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",14571301-Barbell-Standing-Wide-Military-Press_Shoulders_180.webp
+1458,EZ Barbell Seated Curls,Strength,Upper Arms,EZ Barbell,Male,Biceps Brachii,"Brachialis, Brachioradialis",14581301-EZ-Barbell-Seated-Curls_Upper-Arms_180.webp
+1459,Dumbbell Romanian Deadlift,Strength,Hips,Dumbbell,Male,"Gluteus Maximus, Hamstrings","Quadriceps, Soleus",14591301-Dumbbell-Romanian-Deadlift_Hips_180.webp
+1460,Walking Lunge,Aerobic,Thighs,Body weight,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",14601301-Walking-Lunge-Male_Hips_180.webp
+1467,Push-up on Forearms,Strength,Upper Arms,Body weight,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",14671301-Push-up-on-Forearms_Upper-Arms_180.webp
+1479,Lever Incline Chest Press (versions 2),Strength,Chest,Leverage machine,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Triceps Brachii",14791301-Lever-Incline-Chest-Press_Chest_180.webp
+1514,Barbell Quarter Squat,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",15141301-Barbell-Quarter-Squat_Thighs_180.webp
+1527,Barbell Olympic Squat,Strength,Thighs,Barbell,Male,,,15271301-Barbell-Olympic-Squat_Thighs_180.webp
+1545,Barbell full Zercher Squat,Strength,Thighs,Barbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",15451301-Barbell-full-Zercher-Squat_Thighs_180.webp
+1547,Cable Standing Leg Curl,Strength,Thighs,Cable,Male,,,15471301-Cable-Standing-Leg-Curl_Thighs_180.webp
+1555,Dumbbell Squat,Strength,Thighs,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",15551301-Dumbbell-Squat_Thighs_180.webp
+1574,Lever Seated Wide Squat,Strength,Thighs,Leverage machine,Male,,,15741301-Lever-Seated-Wide-Squat_Thighs_180.webp
+1583,Sled Reverse Hack Squat,Strength,Thighs,Sled machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",15831301-Sled-Reverse-Hack-Squat_Thighs_180.webp
+1593,Sit Squat,Strength,Thighs,Body weight,Male,,,15931301-Sit-Squat_Thighs_180.webp
+1594,Smith Frankenstein Squat,Strength,Thighs,Smith machine,Male,,,15941301-Smith-Frankenstein-Squat_Thighs_180.webp
+1595,Smith Front Squat,Strength,Thighs,Smith machine,Male,,,15951301-Smith-Front-Squat_Thighs_180.webp
+1596,Smith Squat to Bench,Strength,Thighs,Smith machine,Male,,,15961301-Smith-Squat-to-Bench_Thighs_180.webp
+1597,Smith Stiff Legged Deadlift,Strength,Hips,Smith machine,Male,,,15971301-Smith-Stiff-Legged-Deadlift_Hips_180.webp
+1598,Smith Zercher Squat,Strength,Thighs,Smith machine,Male,,,15981301-Smith-Zercher-Squat_Thighs_180.webp
+1605,Cable Triceps Pushdown (SZ-bar),Strength,Upper Arms,Cable,Male,Triceps Brachii,,16051301-Cable-Triceps-Pushdown-(SZ-bar)_Upper-arms_180.webp
+1606,Cable Reverse Grip Triceps Pushdown (SZ-bar),Strength,Upper Arms,Cable,Male,Triceps Brachii,,16061301-Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms_180.webp
+1607,Cable Biceps Curl (SZ-bar),Strength,Upper Arms,Cable,Male,Biceps Brachii,"Brachialis, Brachioradialis",16071301-Cable-Biceps-Curl-(SZ-bar)_Upper-arms_180.webp
+1608,Cable Reverse Grip Biceps Curl (SZ-bar),Strength,Upper Arms,Cable,Male,,,16081301-Cable-Standing-Reverse-Curl-(SZ-bar)_Upper-arms-FIX_180.webp
+1609,Cable One Arm Side Triceps Pushdown,Strength,Upper Arms,Cable,Male,Triceps Brachii,,16091301-Cable-One-Arm-Side-Triceps-Pushdown_Upper-arms_180.webp
+1610,Barbell Behind Back Finger Curl,Strength,Forearms,Barbell,Male,,,16101301-Barbell-Behind-Back-Finger-Curl_Forearms_180.webp
+1614,Lever Preacher Curl (version 2),Strength,Upper Arms,Leverage machine,Male,Brachialis,"Biceps Brachii, Brachioradialis",16141301-Lever-Preacher-Curl-(version 2)_Upper-Arms_180.webp
+1615,Lever Hammer Grip Preacher Curl,Strength,Upper Arms,Leverage machine,Male,,,16151301-Lever-Hammer-Grip-Preacher-Curl_Upper-Arms_180.webp
+1616,Lever Reverse Grip Preacher Curl,Strength,Upper Arms,Leverage machine,Male,,,16161301-Lever-Reverse-Grip-Preacher-Curl_Upper-Arms_180.webp
+1623,Dumbbell Palms In Incline Bench Press,Strength,Upper Arms,Dumbbell,Male,Pectoralis Major Clavicular Head,"Deltoid Anterior, Pectoralis Major Sternal Head, Triceps Brachii",16231301-Dumbbell-Palms-In-Incline-Bench-Press_Upper-Arms_180.webp
+1624,Dumbbell Reverse Bench Press,Strength,Chest,Dumbbell,Male,,,16241301-Dumbbell-Reverse-Bench-Press_Chest_180.webp
+1625,Smith Machine Decline Close Grip Bench Press,Strength,Upper Arms,Smith machine,Male,,,16251301-Smith-Machine-Decline-Close-Grip-Bench-Press_Upper-Arms_180.webp
+1626,Smith Machine Reverse Decline Close Grip Bench Press,Strength,Chest,Smith machine,Male,,,16261301-Smith-Machine-Reverse-Decline-Close-Grip-Bench-Press_Chest_180.webp
+1627,EZ Barbell Close Grip Preacher Curl,Strength,Upper Arms,EZ Barbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",16271301-EZ-Barbell-Close-Grip-Preacher-Curl_Upper-Arms-FIX_180.webp
+1629,Barbell Standing Wide Grip Biceps Curl,Strength,Upper Arms,Barbell,Male,Biceps Brachii,Brachialis,16291301-Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms_180.webp
+1630,Cable Close Grip Curl,Strength,Upper Arms,Cable,Male,,,16301301-Cable-Close-Grip-Curl_Upper-Arms_180.webp
+1631,Cable Concentration Curl,Strength,Upper Arms,Cable,Male,,,16311301-Cable-Concentration-Curl_Upper-Arms_180.webp
+1632,Cable Drag Curl,Strength,Upper Arms,Cable,Male,,,16321301-Cable-Drag-Curl_Upper-Arms_180.webp
+1636,Cable Overhead Curl,Strength,Upper Arms,Cable,Male,Biceps Brachii,"Brachialis, Brachioradialis",16361301-Cable-Overhead-Curl_Upper-Arms_180.webp
+1641,Cable Seated Curl,Strength,Upper Arms,Cable,Male,,,16411301-Cable-Seated-Curl_Upper-Arms_180.webp
+1654,Dumbbell Biceps Curl Reverse,Strength,Upper Arms,Dumbbell,Male,,,16541301-Dumbbell-Biceps-Curl-Reverse_Upper-Arms_180.webp
+1657,Dumbbell Cross Body Hammer Curl (Version 2),Strength,Upper Arms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",16571301-Dumbbell-Cross-Body-Hammer-Curl-(Version-2)_Upper-Arms_180.webp
+1664,Dumbbell High Curl,Strength,Upper Arms,Dumbbell,Male,,,16641301-Dumbbell-High-Curl_Upper-Arms_180.webp
+1677,Dumbbell Seated Bicep Curl,Strength,Upper Arms,Dumbbell,Male,,,16771301-Dumbbell-Seated-Bicep-Curl_Upper-Arms_180.webp
+1678,Dumbbell Seated Hammer Curl,Strength,Upper Arms,Dumbbell,Male,Brachioradialis,"Biceps Brachii, Brachialis",16781301-Dumbbell-Seated-Hammer-Curl_Upper-Arms_180.webp
+1682,EZ Bar Seated Close Grip Concentration Curl,Strength,Upper Arms,EZ Barbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",16821301-EZ-Bar-Seated-Close-Grip-Concentration-Curl_Upper-Arms_180.webp
+1683,Smith Machine Bicep Curl,Strength,Upper Arms,Smith machine,Male,Biceps Brachii,"Brachialis, Brachioradialis",16831301-Smith-Machine-Bicep-Curl_Upper-Arms_180.webp
+1718,Barbell Seated Close grip Behind Neck Triceps Extension,Strength,Upper Arms,Barbell,Male,,,17181301-Barbell-Seated-Close-grip-Behind-Neck-Triceps-Extension_Upper-Arms_180.webp
+1719,Barbell Incline Close Grip Bench Press,Strength,Upper Arms,Barbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",17191301-Barbell-Incline-Close-Grip-Bench-Press_Upper-Arms_180.webp
+1720,Barbell Lying Back of the Head Tricep Extension,Strength,Upper Arms,Barbell,Male,,,17201301-Barbell-Lying-Back-of-the-Head-Tricep-Extension_Upper-Arms_180.webp
+1721,Barbell Reverse Grip Skullcrusher,Strength,Upper Arms,Barbell,Male,,,17211301-Barbell-Reverse-Grip-Skullcrusher_Upper-Arms_180.webp
+1722,Cable High Pulley Overhead Tricep Extension,Strength,Upper Arms,Cable,Male,Triceps Brachii,,17221301-Cable-High-Pulley-Overhead-Tricep-Extension_Upper-Arms_180.webp
+1725,Cable Rope Incline Tricep Extension,Strength,Upper Arms,Cable,Male,,,17251301-Cable-Rope-Incline-Tricep-Extension_Upper-Arms_180.webp
+1728,Cable Two Arm Tricep Kickback,Strength,Upper Arms,Cable,Male,,,17281301-Cable-Two-Arm-Tricep-Kickback_Upper-Arms_180.webp
+1735,Dumbbell Lying Single Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,17351301-Dumbbell-Lying-Single-Extension_Upper-Arms_180.webp
+1741,Dumbbell Standing Bent Over Two Arm Triceps Extension,Strength,Upper Arms,Dumbbell,Male,,,17411301-Dumbbell-Standing-Bent-Over-Two-Arm-Triceps-Extension_Upper-Arms_180.webp
+1752,Smith Machine Incline Tricep Extension,Strength,Upper Arms,Smith machine,Male,,,17521301-Smith-Machine-Incline-Tricep-Extension_Upper-Arms_180.webp
+1760,Dumbbell Goblet Squat,Strength,Thighs,Dumbbell,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Gluteus Medius, Soleus, Tensor Fasciae Latae",17601301-Dumbbell-Goblet-Squat_Thighs-FIX_180.webp
+1761,Hanging Oblique Knee Raise,Strength,Waist,Body weight,Male,"Iliopsoas, Obliques","Adductor Brevis, Adductor Longus, Adductor Magnus, Gluteus Medius, Gracilis, Quadriceps, Rectus Abdominis, Sartorius, Tensor Fasciae Latae",17611301-Hanging-Oblique-Knee-Raise_Waist_180.webp
+1762,Single Leg Squat with Support (pistol),Strength,Thighs,Body weight,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",17621301-Single-Leg-Squat-with-Support-(pistol)_Thighs_180.webp
+1763,Shoulder Grip Pull-up,Strength,Back,Body weight,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",17631301-Shoulder-Grip-Pull-up_Back_180.webp
+1764,Hanging Leg Hip Raise,Strength,Waist,Body weight,Male,"Iliopsoas, Rectus Abdominis","Obliques, Quadriceps, Sartorius, Tensor Fasciae Latae",17641301-Hanging-Leg-Hip-Raise_Waist_180.webp
+1765,Dumbbell Upright Row (back POV),Strength,Shoulders,Dumbbell,Male,,,17651301-Dumbbell-Upright-Row-(back-POV)_Shoulders_180.webp
+1859,Cable Kneeling Triceps Extension (VERSION 2),Strength,Upper Arms,Cable,Male,Triceps Brachii,,18591301-Cable-Kneeling-Triceps-Extension-(VERSION-2)_Upper-Arms_180.webp
+1860,Hyperextension (VERSION 2),Strength,Hips,Body weight,Male,Erector Spinae,"Gluteus Maximus, Hamstrings",18601301-Hyperextension-(VERSION-2)_Hips_180.webp
+1861,Cable Curl with Multipurpose V bar,Strength,Forearms,Cable,Male,,,18611301-Cable-Curl-with-Multipurpose-V-bar_Forearms_180.webp
+1864,Extra Decline Sit-up,Strength,Waist,Body weight,Male,,,18641301-Extra-Decline-Sit-up_Waist_180.webp
+1865,Hammer Grip Pull-up on Dip Cage,Strength,Back,Body weight,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",18651301-Hammer-Grip-Pull-up-on-Dip-Cage_Back_180.webp
+1866,Wide Grip Pull-Up on Dip Cage,Strength,Back,Body weight,Male,,,18661301-Wide-Grip-Pull-Up-on-Dip-Cage_Back_180.webp
+1867,Lever Seated Hip Adduction (VERSION 2),Strength,Hips,Leverage machine,Male,,,18671301-Lever-Seated-Hip-Adduction-(VERSION-2)_Hips_180.webp
+1868,Barbell Low Bar Squat with Rack,Strength,Thighs,Barbell,Male,,,18681301-Barbell-Low-Bar-Squat-with-Rack_Thighs_180.webp
+1869,Lever Seated Hip Abduction (VERSION 2),Strength,Hips,Leverage machine,Male,,,18691301-Lever-Seated-Hip-Abduction-(VERSION-2)_Hips_180.webp
+1870,Lever Lateral Pulldown (plate loaded),Strength,Back,Leverage machine,Male,Latissimus Dorsi,"Brachialis, Brachioradialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",18701301-Lever-Lateral-Pulldown-(plate-loaded)_Back_180.webp
+1871,Lever Triceps Dip (plate loaded),Strength,Upper Arms,Leverage machine,Male,Triceps Brachii,"Deltoid Anterior, Latissimus Dorsi, Levator Scapulae, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",18711301-Lever-Triceps-Dip-(plate-loaded)_Upper-Arms_180.webp
+1872,Lever Preacher Curl (plate loaded),Strength,Upper Arms,Leverage machine,Male,Brachialis,"Biceps Brachii, Brachioradialis",18721301-Lever-Preacher-Curl-(plate-loaded)_Upper-Arms_180.webp
+1873,Lever Leg Extension (plate loaded),Strength,Thighs,Leverage machine,Male,,,18731301-Lever-Leg-Extension-(plate-loaded)_Thighs_180.webp
+1874,Lever Alternate Leg Extension (plate loaded),Strength,Thighs,Leverage machine,Male,Quadriceps,,18741301-Lever-Alternate-Leg-Extension-(plate-loaded)_Thighs_180.webp
+1875,Lever Squat (plate loaded),Strength,Thighs,Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",18751301-Lever-Squat-(plate-loaded)_Thighs_180.webp
+1876,Lever Lateral Raise (plate loaded),Strength,Shoulders,Leverage machine,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior",18761301-Lever-Lateral-Raise-(plate-loaded)_Shoulders_180.webp
+1992,Sled Full Hack Squat,Strength,Thighs,Sled machine,Male,,,19921301-Sled-Full-Hack-Squat_Thighs_180.webp
+2072,Hip Thrusts,Strength,Hips,Body weight,Male,,,20721301-Hip-Thrusts_Hips-FIX_180.webp
+2137,Dumbbell Arnold Press,Strength,Shoulders,Dumbbell,Male,Deltoid Anterior,"Deltoid Lateral, Serratus Anterior, Triceps Brachii",21371301-Dumbbell-Arnold-Press_Shoulders_180.webp
+2138,Stationary Bike Run (version 3),Aerobic,Thighs,Leverage machine,Male,,,21381301-Stationary-Bike-Run-(version-3)_Cardio_180.webp
+2144,Cable Seated Chest Press,Strength,Chest,Cable,Male,,,21441301-Cable-Seated-Chest-Press_Chest_180.webp
+2186,EZ Barbell Decline Triceps Extension,Strength,Upper Arms,EZ Barbell,Male,Triceps Brachii,,21861301-EZ-Barbell-Decline-Triceps-Extension_Upper-Arms_180.webp
+2187,Barbell Reverse Close-grip Bench Press,Strength,Upper Arms,Barbell,Male,Triceps Brachii,"Deltoid Anterior, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head",21871301-Barbell-Reverse-Close-grip-Bench-Press_Upper-Arms_180.webp
+2188,Dumbbell Seated Triceps Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,21881301-Dumbbell-Seated-Triceps-Extension_Upper-Arms_180.webp
+2189,Dumbbells Seated Triceps Extension,Strength,Upper Arms,Dumbbell,Male,Triceps Brachii,,21891301-Dumbbells-Seated-Triceps-Extension_Upper-Arms_180.webp
+2267,Lever Seated Leg Press,Strength,"Hips, Thighs",Leverage machine,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",22671301-Lever-Seated-Leg-Press_Thighs_180.webp
+2276,Lever Lying Crunch,Strength,Waist,Leverage machine,Male,Rectus Abdominis,Obliques,22761301-Lever-Lying-Crunch_Waist_180.webp
+2277,Lever Chest Press (VERSION 4),Strength,Chest,Leverage machine,Female,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",22771301-Lever-Chest-Press-(VERSION-4)_Chest_180.webp
+2278,Lever Decline Chest Press (VERSION 2),Strength,Chest,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Anterior, Pectoralis Major Clavicular Head, Triceps Brachii",22781301-Lever-Decline-Chest-Press-(VERSION-2)_Chest_180.webp
+2282,Lever Neck Extension (plate loaded),Strength,Neck,Leverage machine,Male,,,22821301-Lever-Neck-Extension-(plate-loaded)_Neck_180.webp
+2283,Lever Neck Left Side Flexion (plate loaded),Strength,Neck,Leverage machine,Male,,,22831301-Lever-Neck-Left-Side-Flexion-(plate-loaded)_Neck_180.webp
+2284,Lever Neck Right Side Flexion (plate loaded),Strength,Neck,Leverage machine,Male,,,22841301-Lever-Neck-Right-Side-Flexion-(plate-loaded)_Neck_180.webp
+2285,Lever Pullover (plate loaded),Strength,Back,Leverage machine,Male,Pectoralis Major Sternal Head,"Deltoid Posterior, Latissimus Dorsi, Teres Major, Triceps Brachii",22851301-Lever-Pullover-(plate-loaded)_Back_180.webp
+2286,Lever Hip Extension (VERSION 2),Strength,Hips,Leverage machine,Male,,,22861301-Lever-Hip-Extension-(VERSION-2)_Hips_180.webp
+2288,Lever Gripper Hands (plate loaded),Strength,Forearms,Leverage machine,Male,,,22881301-Lever-Gripper-Hands-(plate-loaded)_Hands_180.webp
+2289,Lever Calf Press (plate loaded),Strength,Calves,Leverage machine,Male,,,22891301-Lever-Calf-Press-(plate-loaded)_Calves_180.webp
+2292,Dumbbell Rear Delt Raise,Strength,Shoulders,Dumbbell,Male,Deltoid Posterior ,"Brachialis, Brachioradialis, Deltoid Lateral, Levator Scapulae, Trapezius Upper Fibers, Wrist Flexors",22921301-Dumbbell-Rear-Delt-Raise_Shoulders_180.webp
+2300,Inverted Row Bent Knees,Strength,Back,Body weight,Male,"Infraspinatus, Latissimus Dorsi, Teres Major, Teres Minor , Trapezius Lower Fibers, Trapezius Middle Fibers","Brachialis, Brachioradialis, Deltoid Posterior, Pectoralis Major Sternal Head",23001301-Inverted-Row-Bent-Knees_Back_180.webp
+2315,Lever Rotary Calf,Strength,Calves,Leverage machine,Male,Gastrocnemius,Soleus,23151301-Lever-Rotary-Calf_Calves_180.webp
+2317,Dumbbell Seated Bent Arm Lateral raise,Strength,Shoulders,Dumbbell,Male,Deltoid Lateral,"Deltoid Anterior, Serratus Anterior, Trapezius Lower Fibers, Trapezius Middle Fibers",23171301-Dumbbell-Seated-Bent-Arm-Lateral-raise_Shoulders_180.webp
+2318,Lever Shoulder Press (plate loaded) (version 3),Strength,Shoulders,Leverage machine,Male,Deltoid Anterior,"Deltoid Lateral, Pectoralis Major Clavicular Head, Serratus Anterior, Triceps Brachii",23181301-Lever-Shoulder-Press-(plate-loaded)-version-3_Shoulders_180.webp
+2321,Dumbbell Standing Inner Biceps Curl (version 2),Strength,Upper Arms,Dumbbell,Male,Biceps Brachii,Brachialis,23211301-Dumbbell-Standing-Inner-Biceps-Curl-(version-2)_Upper-Arms_180.webp
+2329,Spine Twist,Strength,Waist,Body weight,Male,Obliques,,23291301-Spine-Twist_Waist_180.webp
+2330,Cable Lat Pulldown Full Range Of Motion,Strength,Back,Cable,Male,Latissimus Dorsi,"Biceps Brachii, Brachialis, Deltoid Posterior, Infraspinatus, Teres Major, Teres Minor, Trapezius Lower Fibers, Trapezius Middle Fibers",23301301-Cable-Lat-Pulldown-Full-Range-Of-Motion_Back_180.webp
+2335,Lever Seated Calf Press,Strength,Calves,Leverage machine,Male,Gastrocnemius,Soleus,23351301-Lever-Seated-Calf-Press_Calves_180.webp
+2363,Wide-Grip Chest Dip on High Parallel Bars,Strength,Chest,Body weight,Male,"Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head","Deltoid Anterior, Triceps Brachii",23631301-Wide-Grip-Chest-Dip-on-High-Parallel-Bars_Chest_180.webp
+2368,Split Squats,Strength,"Hips, Thighs",Body weight,Male,"Gluteus Maximus, Quadriceps","Adductor Magnus, Soleus",23681301-Split-Squats_Thighs-FIX_180.webp
+2399,Cable Seated Twist,Strength,Waist,Cable,Male,Obliques,Iliopsoas,23991301-Cable-Seated-Twist_Waist_180.webp
+2400,Inverse Leg Curl (on pull-up cable machine),Strength,Thighs,Body weight,Male,Hamstrings,"Biceps Brachii, Deltoid Anterior, Gastrocnemius, Pectoralis Major Clavicular Head, Pectoralis Major Sternal Head, Popliteus, Sartorius, Triceps Brachii",24001301-Inverse-Leg-Curl-(on-pull-up-cable-machine)_Thighs_180.webp
+2408,Weighted Lying Neck Extension (with head harness),Strength,Neck,Weighted,Male,,,24081301-Weighted-Lying-Neck-Extension-(with-head-harness)_Neck_180.webp
+2409,Weighted Lying Neck Flexion (with head harness),Strength,Neck,Weighted,Male,,,24091301-Weighted-Lying-Neck-Flexion-(with-head-harness)_Neck_180.webp
+2410,Weighted Standing Neck Extension (with head harness),Strength,Neck,Weighted,Male,,,24101301-Weighted-Standing-Neck-Extension-(with-head-harness)_Neck_180.webp
+2411,Cable Seated Neck Extension (with head harness),Strength,Neck,Cable,Male,"Splenius, Trapezius Upper Fibers ",,24111301-Cable-Seated-Neck-Extension-(with-head-harness)_Neck_180.webp
+2412,Cable Seated Neck Flexion (with head harness),Strength,Neck,Cable,Male,,,24121301-Cable-Seated-Neck-Flexion-(with-head-harness)_Neck_180.webp
+2414,Barbell Standing Concentration Curl,Strength,Upper Arms,Barbell,Male,Brachialis,"Biceps Brachii, Brachioradialis",24141301-Barbell-Standing-Concentration-Curl_Upper-Arms_180.webp
+5656,Cable Standing Face Pull (with rope),Strength,Shoulders,Cable,Male,Deltoid Posterior ,"Brachialis, Brachioradialis, Deltoid Lateral, Infraspinatus, Teres Minor,Trapezius Lower Fibers, Trapezius Middle Fibers",56561301-Cable-Standing-Face-Pull-(with-rope)_Shoulders_180.webp
